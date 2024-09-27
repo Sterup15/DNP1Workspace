@@ -1,4 +1,4 @@
-﻿namespace _2._11;
+﻿namespace Exercises._2._11;
 
 class Program
 {
